@@ -1,9 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import SideBar from "./components/SideBar";
 
 function App() {
   return (
     <div className="App">
+      <SideBar />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
