@@ -1,0 +1,58 @@
+.mainPage {
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+}
+
+.firstContent {
+    height: fit-content;
+    background-color: #EFEFEF;
+    padding: 30px 270px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.section {
+    width: 470px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.top {
+    display: flex;
+}
+
+h6 {
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0px;
+    text-align: left;
+}
+
+h5 {
+    font-size: 24px;
+    margin: 0px;
+    margin-bottom: 18px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+p {
+    text-align: left;
+}

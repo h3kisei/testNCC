@@ -1,0 +1,37 @@
+.sideBar  {
+    width: 150px;
+    height: 935px;
+    background-color: black;
+}
+
+button {
+    background-color: black;
+    border: none;
+    width: 150px;
+    border-bottom: 1px solid #5C5C5C;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 15px;
+    height: 45px;
+}
+
+button:hover {
+    background-color: #5C5C5C;
+}
+
+h1 {
+    color: white;
+    font-size: 16px;
+    margin: 0px;
+}
+
+h2 {
+    color: #AAAAAA;
+    margin: 0px;
+    font-size: 16px;
+}
+
+button:hover h2{
+    color: white;
+}
